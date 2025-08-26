@@ -1,7 +1,15 @@
 {
     "name": "UseCasesGameplay",
     "rootNamespace": "",
-    "references": [],
+    "references": [
+        "GUID:0f3c3f68a5f41cd4cafea25b6a453018",
+        "GUID:99c1aeab63244b04dba69bcb773a9f4a",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:08b38f39e2d9e594389b7a4cf4c2c338",
+        "GUID:b0214a6008ed146ff8f122a6a9c2f6cc",
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285",
+        "GUID:ebcad7e3972724c43aa595f17cf4d103"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,

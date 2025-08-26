@@ -49,7 +49,10 @@
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0",
     "org.nuget.system.reactive": "6.0.1",
-    "com.neuecc.unirx": "7.1.0"
+    "com.neuecc.unirx": "7.1.0",
+    "com.serilog.sinks.unity3d": "3.0.0",
+    "org.nuget.serilog": "4.3.0",
+    "org.nuget.serilog.sinks.file": "7.0.0"
   },
   "scopedRegistries": [
     {
@@ -57,8 +60,16 @@
       "url": "https://package.openupm.com",
       "scopes": [
         "com.neuecc.unirx",
+        "com.serilog.sinks.unity3d",
+        "org.nuget.serilog",
+        "org.nuget.serilog.sinks.file",
+        "org.nuget.system.buffers",
+        "org.nuget.system.diagnostics.diagnosticsource",
+        "org.nuget.system.memory",
+        "org.nuget.system.numerics.vectors",
         "org.nuget.system.reactive",
         "org.nuget.system.runtime.compilerservices.unsafe",
+        "org.nuget.system.threading.channels",
         "org.nuget.system.threading.tasks.extensions"
       ]
     }
